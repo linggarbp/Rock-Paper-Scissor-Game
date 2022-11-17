@@ -2501,7 +2501,7 @@ MonoBehaviour:
     MaxHealth: 100
     RestoreValue: 5
     DamageValue: 10
-  alwaysShowCard: 0
+  alwaysShowCard: 1
   IsReady: 0
 --- !u!1 &1004365420
 GameObject:
